@@ -47,6 +47,7 @@
 		<module>pet-clinic-web</module>
 	</modules>
 
+
 	<scm>
 		<developerConnection>scm:git:ssh:git@github.com:stmum0107/sfg-pet-clinic.git</developerConnection>
 	</scm>
