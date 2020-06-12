@@ -47,7 +47,7 @@
 	</modules>
 
 	<scm>
-		<developerConnection>scm:git:ssh:git@github.com:stmum0107/sfg-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:https:https://github.com/stmum0107/sfg-pet-clinic.git</developerConnection>
 	  <tag>first-maven-release</tag>
   </scm>
 	
