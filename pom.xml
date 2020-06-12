@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	
 	<!-- Added by sanjeev to make this project parnt for multi-module project -->
 	<packaging>pom</packaging> 	
@@ -49,7 +49,7 @@
 	<scm>
 		<!-- <developerConnection>scm:git:https:https://github.com/stmum0107/sfg-pet-clinic.git</developerConnection> -->
 		<developerConnection>scm:git:https://github.com/stmum0107/sfg-pet-clinic.git</developerConnection>
-	  <tag>first-mvn-release</tag>
+	  <tag>HEAD</tag>
   </scm>
 	
 </project>
