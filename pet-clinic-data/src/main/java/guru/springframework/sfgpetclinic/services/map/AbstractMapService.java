@@ -34,9 +34,7 @@ public abstract class AbstractMapService<T extends BaseEntity, ID extends Long> 
 			throw new RuntimeException("object can not be null");
 		}
 		return object;
-	}
-	
-	
+	}	
 	
 	void deleteById(ID id) {
 		map.remove(id);
